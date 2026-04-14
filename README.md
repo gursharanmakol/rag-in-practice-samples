@@ -4,6 +4,8 @@ Sample documents for the [RAG Article Series](https://dev.to/gursharansingh/seri
 
 These files represent a fictional product support library for **TechNova**, a fictional audio products company. The series uses them to demonstrate chunking, retrieval, and generation decisions in a RAG pipeline.
 
+Part 4 uses these files as reading examples; Part 5 loads them in code from the `data/` folder.
+
 ## Files
 
 | File | Purpose in the series |
