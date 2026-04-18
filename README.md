@@ -19,7 +19,7 @@ Part 4 uses these files as reading examples; Part 5 loads them in code from the 
 ## Articles that use these files
 
 - **[Part 4: Chunking, Retrieval, and the Decisions That Break RAG](https://dev.to/gursharansingh/rag-in-practice-part-4-chunking-retrieval-and-the-decisions-that-break-rag-39ig)** — references the files conceptually
-- **Part 5**: Build a RAG System from Scratch — loads and processes these files in code → [`part5/`](part5/) *(article link added after publish)*
+- **[Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/rag-in-practice-part-5-build-a-rag-system-in-practice-4knd)** — loads and processes these files in code → [`part5/`](part5/)
 
 ## Note
 

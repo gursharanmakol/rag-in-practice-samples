@@ -2,7 +2,7 @@
 
 Companion code for Part 5 of the [RAG in Practice](https://dev.to/gursharansingh/series/37906) series.
 
-**Article:** [RAG in Practice — Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/series/37906) *(link will be updated to the specific article URL after publish)*
+**Article:** [RAG in Practice — Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/rag-in-practice-part-5-build-a-rag-system-in-practice-4knd)
 
 ---
 
