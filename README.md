@@ -4,7 +4,7 @@ Sample documents for the [RAG Article Series](https://dev.to/gursharansingh/seri
 
 These files represent a fictional product support library for **TechNova**, a fictional audio products company. The series uses them to demonstrate chunking, retrieval, and generation decisions in a RAG pipeline.
 
-Part 4 uses these files as reading examples; Part 5 loads them in code from the `data/` folder.
+Part 4 uses these files as reading examples; Part 5 loads them in code from the `data/` folder. Each part's code lives in its own directory (e.g. `part5/`).
 
 ## Files
 
@@ -19,7 +19,7 @@ Part 4 uses these files as reading examples; Part 5 loads them in code from the 
 ## Articles that use these files
 
 - **[Part 4: Chunking, Retrieval, and the Decisions That Break RAG](https://dev.to/gursharansingh/rag-in-practice-part-4-chunking-retrieval-and-the-decisions-that-break-rag-39ig)** — references the files conceptually
-- **Part 5**: Build a RAG System from Scratch — loads and processes these files in code *(link added after publish)*
+- **Part 5**: Build a RAG System from Scratch — loads and processes these files in code → [`part5/`](part5/) *(article link added after publish)*
 
 ## Note
 
