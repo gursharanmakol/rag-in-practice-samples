@@ -32,7 +32,11 @@ The `.sh` script requires a bash shell. The easiest setup is often to open the r
   cd part5
   python -m venv .venv
   .venv\Scripts\python -m pip install -r requirements.txt
-  set OPENAI_API_KEY=your-key-here
+
+  # Set your API key — use the line matching your shell:
+  $env:OPENAI_API_KEY="your-key-here"    # PowerShell (Windows 10/11 default)
+  # set OPENAI_API_KEY=your-key-here     # cmd.exe (uncomment this instead)
+
   .venv\Scripts\python part5_rag.py
   .venv\Scripts\python inspect_chunks.py
   .venv\Scripts\python compare_html_raw_vs_parsed.py
