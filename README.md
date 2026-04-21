@@ -1,10 +1,6 @@
-*Companion code for the [RAG in Practice](https://dev.to/gursharansingh/series/37906) article series, part of [AI in Practice](https://dev.to/gursharansingh/ai-in-practice-795) — a portfolio on production-ready AI engineering.*
-
----
-
 # RAG in Practice — Companion Code & Data
 
-Supporting artifacts for the [RAG Article Series](https://dev.to/gursharansingh/series/37906) on DEV.
+*Companion code for the [RAG in Practice](https://dev.to/gursharansingh/series/37906) article series, part of [AI in Practice](https://dev.to/gursharansingh/ai-in-practice-795) — a portfolio on production-ready AI engineering.*
 
 This repo contains article-specific code examples (such as `part5/`), along with the fictional TechNova corpus used across the series.
 
