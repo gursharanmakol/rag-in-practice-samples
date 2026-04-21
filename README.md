@@ -1,10 +1,8 @@
-# RAG in Practice — Sample Data
+# RAG in Practice — Companion Code & Data
 
-Sample documents for the [RAG Article Series](https://dev.to/gursharansingh/series/37906) on DEV.
+Supporting artifacts for the [RAG Article Series](https://dev.to/gursharansingh/series/37906) on DEV.
 
-These files represent a fictional product support library for **TechNova**, a fictional audio products company. The series uses them to demonstrate chunking, retrieval, and generation decisions in a RAG pipeline.
-
-Part 4 uses these files as reading examples; Part 5 loads them in code from the `data/` folder. Each part's code lives in its own directory (e.g. `part5/`).
+This repo contains article-specific code examples (such as `part5/`), along with the fictional TechNova corpus used across the series.
 
 ## Files
 
@@ -16,9 +14,9 @@ Part 4 uses these files as reading examples; Part 5 loads them in code from the 
 | `data/firmware-changelog.md` | Three version entries — creates a retrieval trap when versions are chunked together |
 | `data/product-specs.html` | HTML comparison table — demonstrates the parsing challenge before chunking |
 
-## Articles that use these files
+## Articles and code
 
-- **[Part 4: Chunking, Retrieval, and the Decisions That Break RAG](https://dev.to/gursharansingh/rag-in-practice-part-4-chunking-retrieval-and-the-decisions-that-break-rag-39ig)** — references the files conceptually
+- **[Part 4: Chunking, Retrieval, and the Decisions That Break RAG](https://dev.to/gursharansingh/rag-in-practice-part-4-chunking-retrieval-and-the-decisions-that-break-rag-39ig)** — no code; references the files conceptually
 - **[Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/rag-in-practice-part-5-build-a-rag-system-in-practice-4knd)** — loads and processes these files in code → [`part5/`](part5/)
 
 ## Note
